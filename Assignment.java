@@ -1,9 +1,9 @@
-package com.palle;
+package com.pk;
 
 
 import java.util.Scanner;
 
-public class Rev{
+public class Assignment{
 	static Scanner sc = new Scanner(System.in);
 	/*static LinkedHashMap<String, Integer> lh = new LinkedHashMap<String, Integer>();
 	static ArrayList al = new ArrayList();*/
